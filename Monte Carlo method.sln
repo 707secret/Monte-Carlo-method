@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Monte Carlo method", "Monte Carlo method.vcxproj", "{BD77402C-1623-471D-8CFB-4E0BD17F4628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Debug|x64.ActiveCfg = Debug|x64
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Debug|x64.Build.0 = Debug|x64
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Debug|x86.Build.0 = Debug|Win32
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Release|x64.ActiveCfg = Release|x64
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Release|x64.Build.0 = Release|x64
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Release|x86.ActiveCfg = Release|Win32
+		{BD77402C-1623-471D-8CFB-4E0BD17F4628}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03714FC6-3CE2-4386-B7EC-C62E3C9A0FA6}
+	EndGlobalSection
+EndGlobal
